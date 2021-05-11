@@ -1,3 +1,2 @@
-IFI7336.DT Artificial Intelligence for Games
-Assignment Submission
-By Yogini Devi Mauree
+# AI_Assignment
+ AI for Games Project
